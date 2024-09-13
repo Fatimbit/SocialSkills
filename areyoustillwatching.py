@@ -18,5 +18,5 @@ print("Here's all the people "+mysteryprofile+" is following that don't follow "
 for account in nofollowback:
     print(account)
 
-print("That's a total of "+len(nofollowback)+" accounts.")
+print("That's a total of "+str(len(nofollowback))+" accounts.")
 
