@@ -1,3 +1,3 @@
 Simple programs to use for your social media queries
 
-areyoustillwatching.py -- A very efficient script that accesses an Instagram account and checks which of the accounts it follows aren't following it back
+areyoustillwatching.py -- A script to check what accounts an Instagram profile is following that aren't following that profile back
